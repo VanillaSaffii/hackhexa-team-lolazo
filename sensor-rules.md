@@ -1,3 +1,3 @@
-si ruido = si y luz = no -> actividad sospechosa
-si ruido = si y movimiento = si -> actividad sospechosa
-si luz = si y movimiento = si -> no hay actividaad sospechosa
+si ruido = si, movimiento = si y luz = no -> actividad sospechosa
+si ruido = no , movimiento = no y luz = no  -> no hay actividad sospechosa
+si luz = si , movimiento = no y ruido= si -> no hay actividaad sospechosa
